@@ -32,9 +32,9 @@ $ rails db:migrate
 $ rails db:seed
 ```
 
-これでRailsサーバーを立ち上げる準備が整いました。
 
-```
+
+
 $ rails server
 ```
 
