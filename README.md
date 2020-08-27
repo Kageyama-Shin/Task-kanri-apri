@@ -34,7 +34,6 @@ $ rails db:seed
 
 
 
-
 $ rails server
 ```
 
@@ -42,3 +41,4 @@ $ rails server
 
 * **email** : sample@email.com
 * **password** : password
+password
